@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "fifa-player-cards",
+=======
+  "name": "my-new-fifa-project",
+>>>>>>> 19e195bebaa8b5e23886711ad965d204cc072cbf
   "version": "0.1.0",
   "private": true,
   "dependencies": {
